@@ -41,3 +41,10 @@ Define a `Response` model and related repository for the purpose of persisting r
 ### Part 5: Show me the Responses
 
 Students will implement a `GET /api/Response`  that will display a list of all persisted responses from the database. Angular will be used to obtain response data from our API endpoint.
+
+Mini Quest:
+
+2 URLs that return 200
+2 URLs that return 300
+2 URLs that return 400
+1 URL that returns 500
